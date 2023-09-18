@@ -14,9 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\iSun.Workshop.Clients\iSun.Workshop.Clients.csproj" />
-    <ProjectReference Include="..\src\iSun.Workshop.Persistence\iSun.Workshop.Persistence.csproj" />
-    <ProjectReference Include="..\src\iSun.Workshop.Services\iSun.Workshop.Services.csproj" />
+    <ProjectReference Include="..\iSun.Workshop.Clients\iSun.Workshop.Clients.csproj" />
+    <ProjectReference Include="..\iSun.Workshop.Persistence\iSun.Workshop.Persistence.csproj" />
+    <ProjectReference Include="..\iSun.Workshop.Services\iSun.Workshop.Services.csproj" />
   </ItemGroup>
 
 </Project>

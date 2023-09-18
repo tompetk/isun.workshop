@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B39B8C9B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSun.Workshop.Services.Tests", "tests\iSun.Workshop.Services.Tests\iSun.Workshop.Services.Tests.csproj", "{BF207F84-BDAE-4679-AF19-6DDFCFB0669E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSun.Workshop", "iSun.Workshop\iSun.Workshop.csproj", "{114F3B22-A72F-43DE-BEBA-6059E1835A5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSun.Workshop", "src\iSun.Workshop\iSun.Workshop.csproj", "{114F3B22-A72F-43DE-BEBA-6059E1835A5B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23641684-A539-4D74-9D3C-D517F4ED8FA1}"
 	ProjectSection(SolutionItems) = preProject
