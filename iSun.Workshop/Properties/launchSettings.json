@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iSun.Workshop": {
+      "commandName": "Project",
+      "commandLineArgs": "--cities Vilnius, Kaunas"
+    }
+  }
+}
